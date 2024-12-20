@@ -1,10 +1,10 @@
 # reddot
 
-A new Flutter project.
+Blood Bank App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is focused on availability of blood groups in a hospital.From this A person who need a particular blood group can search according to the hospital .From the Search we can know the details of the blood.
 
 A few resources to get you started if this is your first Flutter project:
 
